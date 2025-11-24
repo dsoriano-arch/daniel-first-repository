@@ -1,2 +1,2 @@
 # daniel-first-repository
-print"wassup"
+ok
